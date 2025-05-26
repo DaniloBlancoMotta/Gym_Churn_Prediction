@@ -18,7 +18,7 @@ Este repositório demonstra habilidades em:
 *   Interpretação de modelos para entender os fatores que mais influenciam o churn.
 *   Visualização de dados para comunicação de insights.
 
-## ✨ Features Principais
+## Features Principais
 
 *   **Análise de Dados Específica:** Investigação de padrões de frequência, uso de instalações, tipos de planos e dados demográficos.
 *   **Modelagem Preditiva:** Construção de modelos para classificar clientes como 'Churn' ou 'Não Churn'.
@@ -26,7 +26,7 @@ Este repositório demonstra habilidades em:
 *   **Insights Acionáveis:** Identificação dos principais fatores de risco de churn.
 *   **(Futuro):** Simulação de impacto de ações de retenção.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 *   **Linguagem:** Python 3.9+
 *   **Bibliotecas Principais:**
@@ -36,7 +36,7 @@ Este repositório demonstra habilidades em:
     *   Jupyter Notebook: Análise exploratória e documentação.
 *   **Gerenciamento de Ambiente:** venv / Conda
 
-## ⚙️ Instalação e Configuração
+## Instalação e Configuração
 
 1.  **Clone o repositório:**
     ```bash
@@ -56,7 +56,7 @@ Este repositório demonstra habilidades em:
     pip install -r requirements.txt
     ```
 
-## 🚀 Como Usar
+#Como Usar
 
 1.  **Dados:** Adicione os dados brutos da academia na pasta `data/raw/` (respeitando a privacidade e LGPD).
 2.  **Análise:** Execute os notebooks em `notebooks/` para a análise exploratória.
@@ -84,13 +84,4 @@ Gym_Churn_Prediction/
 ├── requirements.txt  # Dependências
 ├── .gitignore
 └── README.md
-```
-
-## 📄 Licença
-
-Distribuído sob a Licença MIT. Veja `LICENSE` (a ser adicionado) para mais informações.
-
----
-
-*Desenvolvido por Danilo Blanco Motta.*
 
